@@ -1,0 +1,11 @@
+.entry-item {
+
+}
+
+.close-button {
+display: none;
+}
+
+.entry-item:hover .close-button {
+    display: block;
+}
