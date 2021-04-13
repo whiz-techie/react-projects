@@ -1,0 +1,121 @@
+
+.nav{
+    position: sticky;
+    top: 0;
+}
+input{
+    border: none !important;
+}
+input:focus{
+    border: none;
+}
+.header-links {
+    /* margin-left: 20px; */
+    padding-right: 20%;
+    padding-left: 5%;
+display: flex;
+flex-direction: row;
+background-color: white;
+  
+}
+.header-links > a {
+    margin: 5px;
+    text-decoration: none;
+    color: black;
+}
+.header-links > p {
+    /* margin-right: 20px; */
+    /* text-decoration: none; */
+}
+
+.nav {
+    width: 100%;
+}
+body {
+    margin: 0px;
+}
+.nav-div-border {
+/* border-color: black; */
+border-radius: 5%;
+/* border-width: 2px; */
+/* width: 235px; */
+display: flex;
+align-items: center;
+margin-right: 1%;
+}
+@keyframes rotate{
+    0%{
+        transform: rotate(0deg);
+        }
+    100%{
+        transform: rotate(360deg);
+        }
+}
+
+.aaa {
+    background-color: white;
+    border: black 2px solid;
+}
+
+.fu {
+    padding-right : 15px;
+}
+.btn-light {
+    height:100% !important;
+    background-color: black;
+}
+.header div{
+    display: flex !important;
+}
+.header *{
+    justify-content: center;
+    display: flex;
+    border: 2-x solid black;
+    
+}
+.flex{
+    display: flex;
+    padding: 10px;
+    background-color: rgb(247, 248, 249);
+    width: 100%;
+    /* justify-content: center; */
+}
+.rotate-animation {
+    animation: rotate 1s forwards 0s ease;
+}
+
+.font-size-50px {
+    font-size: 100px;
+}
+
+.border-2-w-2{
+    border: 2px solid black;
+    /* width: 30%; */
+    height: 40px;
+    width: 100vh;
+
+}
+.border-n {
+border: none;
+width: 100vh;
+height: 30px;
+}
+.borderh-80 {
+height: 80%;
+font-size: 13px;
+border: none;
+}
+.nav-div-border1 {
+border-color: black;
+border-radius: 10%;
+border-width: 2px;
+width: 25%;
+}
+.bgc-n {
+    background-color: white;
+    border: none;
+}
+
+
+
+

@@ -1,0 +1,27 @@
+.card-container {
+
+    text-align: center;    /* background-color: white; */
+    max-width: 300px;
+    max-height: 350px;
+    margin: 0 auto;
+}
+.card-image {
+    width: 100%;
+    min-width: 330px;
+}
+
+.card-discription{
+    line-height: 10px;
+    text-align: start;
+    color:gray;
+    padding-left: 6px;
+    margin-left: 50px;
+    border-left: 6px solid #dee519;
+}
+.card-discription h2{
+color:black;
+}
+.card-bottom{
+    display: flex;
+    justify-content: space-between;
+}

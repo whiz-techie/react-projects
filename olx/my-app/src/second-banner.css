@@ -1,0 +1,17 @@
+.second-banner {
+    background-image: url("https://statics.olx.com.pk/external/base/img/hero_bg_pk.jpg");
+    padding: 100px;
+    padding-top: 0px;
+    background-size: 150%;
+    /* background-position-x: center; */
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+
+.ad-banner {
+    width: 520px;
+    height: 100px;
+    /* margin-left:15% ; */
+    margin-top: 40px;
+    margin: 0 auto;
+}
